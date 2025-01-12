@@ -1,0 +1,3 @@
+N7 - Autotoon
+
+Our latest file has been revised based on feedback received after the initial presentation. We have added the authors' names and publication years of the articles in the references section. In the framework section, we have attached the implementation code for each block.
